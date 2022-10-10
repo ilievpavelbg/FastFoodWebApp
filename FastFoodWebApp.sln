@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodWebApp", "FastFoodWebApp\FastFoodWebApp.csproj", "{AA3BBF53-B070-4DBF-AA01-FF09DFCFEE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodWebAppCore", "FastFoodWebAppCore\FastFoodWebAppCore.csproj", "{E2F96EF8-EC3A-4755-862F-5C37C5E1839C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3BBF53-B070-4DBF-AA01-FF09DFCFEE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3BBF53-B070-4DBF-AA01-FF09DFCFEE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3BBF53-B070-4DBF-AA01-FF09DFCFEE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3BBF53-B070-4DBF-AA01-FF09DFCFEE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F96EF8-EC3A-4755-862F-5C37C5E1839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F96EF8-EC3A-4755-862F-5C37C5E1839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F96EF8-EC3A-4755-862F-5C37C5E1839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F96EF8-EC3A-4755-862F-5C37C5E1839C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F937B92-C17D-43E6-B151-30DD8ABC6FF4}
+	EndGlobalSection
+EndGlobal
